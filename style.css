@@ -1,0 +1,64 @@
+.padre {
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+   padding-bottom: 2%;
+    margin: 1rem;
+    justify-content:center;
+    padding-top: 2%;
+
+  }
+  
+  .hijo_uno {
+    background-color: ;
+    
+    /* IMPORTANTE */
+    width: 370px;
+	height :30px;
+    border: 2px solid rgba(0,0,0,.4);
+    display: block;
+    margin:auto;
+    margin-bottom: 0.5%;
+    
+  }
+  
+  .hijo_dos {
+    
+    
+    /* IMPORTANTE */
+    width: 30%;
+    margin: 0 auto;
+  }
+  .btn{
+  display: block;
+  margin:auto;
+  border: #ccc;
+  text-align: center;
+  background: #0078d4;
+ 
+  padding: 1%;
+  color: white;
+  font-size: 1.75rem;
+  line-height: 1;
+  font-weight: 300;
+  margin-top: 3%;
+  
+  
+    
+}
+.padree {
+    display: flex;
+    justify-content: center;
+  }
+  .hijoi {
+    padding: 0px;
+    margin: 0px;
+    background-color: 
+  }
+  
+    input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
